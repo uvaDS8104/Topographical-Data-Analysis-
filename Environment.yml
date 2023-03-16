@@ -1,0 +1,24 @@
+name: TDA
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - anaconda
+  - jupyter
+
+  # Core scientific/analytics python
+  - pandas
+  - numpy
+  - scipy
+
+  # ML
+  - matplotlib
+  - scikit-learn
+  - pytorch 
+  - torchvision
+  - torchaudio
+
+  # Core plotting
+  - matplotlib
