@@ -2,7 +2,6 @@
 *.pyc
 *.DS_Store
 *.vbb
-*.csv
 *.png
 *.jpeg
 *.gif
